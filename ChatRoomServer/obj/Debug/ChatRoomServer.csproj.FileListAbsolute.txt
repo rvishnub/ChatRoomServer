@@ -1,0 +1,8 @@
+c:\users\renuka\documents\visual studio 2015\Projects\ChatRoomServer\ChatRoomServer\bin\Debug\ChatRoomServer.exe.config
+c:\users\renuka\documents\visual studio 2015\Projects\ChatRoomServer\ChatRoomServer\bin\Debug\ChatRoomServer.exe
+c:\users\renuka\documents\visual studio 2015\Projects\ChatRoomServer\ChatRoomServer\bin\Debug\ChatRoomServer.pdb
+c:\users\renuka\documents\visual studio 2015\Projects\ChatRoomServer\ChatRoomServer\obj\Debug\ChatRoomServer.csprojResolveAssemblyReference.cache
+c:\users\renuka\documents\visual studio 2015\Projects\ChatRoomServer\ChatRoomServer\obj\Debug\ChatRoomServer.GUI.resources
+c:\users\renuka\documents\visual studio 2015\Projects\ChatRoomServer\ChatRoomServer\obj\Debug\ChatRoomServer.csproj.GenerateResource.Cache
+c:\users\renuka\documents\visual studio 2015\Projects\ChatRoomServer\ChatRoomServer\obj\Debug\ChatRoomServer.exe
+c:\users\renuka\documents\visual studio 2015\Projects\ChatRoomServer\ChatRoomServer\obj\Debug\ChatRoomServer.pdb
